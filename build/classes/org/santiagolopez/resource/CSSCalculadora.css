@@ -1,0 +1,76 @@
+.button1
+{
+    -fx-background-color: #B3BC64;
+    -fx-background-radius: 30 30 30 30;
+}
+
+.button1:hover
+{
+    -fx-background-color: #A8DBEF;
+    -fx-background-radius: 30 30 30 30;
+}
+
+.button1:pressed
+{
+    -fx-background-color: #C3C5CD;
+    -fx-background-radius: 30 30 30 30;
+}
+
+
+
+.button2
+{
+    -fx-background-color: #635B41;
+    -fx-background-radius: 75 75 75 75;
+}
+
+.button2:hover
+{
+    -fx-background-color: #99C4D5;
+    -fx-background-radius: 75 75 75 75;
+}
+
+
+.button2:pressed
+{
+    -fx-background-color: #909992;
+    -fx-background-radius: 75 75 75 75;
+}
+
+
+
+
+.button3
+{
+    -fx-background-color: #998F6F;
+    -fx-background-radius: 30 30 30 30;
+}
+
+.button3:hover
+{
+    -fx-background-color: #99C4D5;
+    -fx-background-radius: 30 30 30 30;
+}
+
+.button3:pressed
+{
+    -fx-background-color: #BC8D3F;
+    -fx-background-radius: 30 30 30 30;
+}
+
+
+.fondo
+{
+    -fx-background-color: #BDA139;
+    -fx-border-color: brown;
+    -fx-border-width: 9; 
+}
+
+
+.pantalla
+{
+    -fx-background-color: #E0FBA7;
+    -fx-border-color: brown;
+    -fx-border-width: 4;
+    -fx-border-style: 2 0 0 0;
+}
